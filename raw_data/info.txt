@@ -1,0 +1,2 @@
+Find your data downloader script from https://sra-explorer.info/ and run from here to get the files.
+Alternatively, download directly from https://www.ebi.ac.uk/ena/browser/home and place here.
