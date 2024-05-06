@@ -3,7 +3,7 @@
 # Set the input directory
 INPUT_DIR="../raw_data/trimming"
 
-# Generate paired-end file names (file2) by replacing "_R1" with "_R2" in the filenames of the first set of 
+# Generate paired-end file names (file2)
 # input files (file1) for correct pairing in the subsequent loop iterations
 for file1 in "$INPUT_DIR"/*1_val_1.fq.gz; do
     file2="${file1/1_val_1/2_val_2}"
