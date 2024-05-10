@@ -82,5 +82,6 @@ igv
 ```
 In the IGV GUI choose file > Load from File
 
+## Example results generated using this pipeline
 
-![alt text](https://github.com/focyte/ATACseq/blob/main/ExampleFIgure.PNG)
+![Figure describing results generated using this pipeline](https://github.com/focyte/ATACseq/blob/main/ExampleFIgure.PNG)
