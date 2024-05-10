@@ -81,3 +81,6 @@ cd ../peak_call
 igv
 ```
 In the IGV GUI choose file > Load from File
+
+
+![alt text](https://github.com/focyte/ATACseq/blob/main/ExampleFIgure.PNG)
