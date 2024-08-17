@@ -3,9 +3,9 @@ Pipeline for analysing ATAC-seq data from raw fastq files to called genomic peak
 
 ## Set up Conda Environment
 
-### Run the environment script
+### Load the yml file
 ```console
-./conda-setup.sh
+conda env create -f atacseq.yml
 ```
 
 ## Download Files
