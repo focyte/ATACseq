@@ -8,13 +8,6 @@ Pipeline for analysing ATAC-seq data from raw fastq files to called genomic peak
 conda env create -f atacseq.yml
 ```
 
-## Download Files
-
-### Put the sra script in ./raw_data and execute
-```console
-./sra_explorer_fastq_download.sh 
-```
-
 ## Quality Control
 
 ### Run FastQC
