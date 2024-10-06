@@ -1,6 +1,25 @@
 # ATAC-seq
 Pipeline for analysing ATAC-seq data from raw fastq files to called genomic peaks
 
+---
+
+## Table of Contents
+1. [Overview](#overview)
+2. [Pipeline Stages](#pipeline-stages)
+    - [Set up Conda Environment](#set-up-conda-environment)
+    - [Quality Control](#quality-control)
+    - [Mapping](#mapping)
+    - [Peak Calling](#peak-calling)
+    - [Results](#results)
+3. [How to Run](#how-to-run)
+4. [Results](#results)
+
+---
+
+## Overview
+
+## Pipeline Stages
+
 ## Set up Conda Environment
 
 ### Load the yml file
@@ -69,12 +88,14 @@ cd ../peak_call
 ```
 
 
-## Open IGV and View Peaks
+### Open IGV and View Peaks
 ```console
 igv
 ```
 In the IGV GUI choose file > Load from File
 
-## Example results generated using this pipeline
+## How To Run
+
+## Results
 
 ![Figure describing results generated using this pipeline](https://github.com/focyte/ATACseq/blob/main/ExampleFIgure.PNG)
